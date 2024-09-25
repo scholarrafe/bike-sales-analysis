@@ -1,6 +1,8 @@
 # Bike Sales Dashboard
 
 ## Overview
+
+![Bike Sales Dashboard](Screenshot (13).png)
 This project involves the analysis of bike sales data for the years 2021 and 2022. By loading data from a SQL Server database and joining two datasets, a comprehensive dashboard was created using Power BI to visualize sales trends and factors affecting bike rentals.
 
 ## Data Source
